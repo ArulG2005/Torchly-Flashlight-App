@@ -1,10 +1,4 @@
 
-
-
-https://github.com/user-attachments/assets/c343032b-5653-43b3-b7ed-add359cef723
-
-
-
 # Torchly - Mobile App (Java + XML)
 
 Torchly is a simple and efficient flashlight application built using Java and XML for Android devices. It provides users with a clean and intuitive UI to control the device's flashlight with ease.
